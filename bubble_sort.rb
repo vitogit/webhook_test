@@ -13,3 +13,4 @@ def bubble_sort(list)
 
   list
 end
+bubble_sort [1,2]
